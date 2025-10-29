@@ -1,4 +1,8 @@
 These are my initial notes for Lab 12.
 I’m testing Git add / commit / push.
+
 ## Summary
-Git helps manage versions safely.
+Version control makes teamwork easier.
+
+## Insights
+GitHub adds collaboration features.
